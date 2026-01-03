@@ -59,4 +59,5 @@ function Menu(){
         </BrowserRouter>
     )
 }
-export default Menu;
+
+export default Index;
